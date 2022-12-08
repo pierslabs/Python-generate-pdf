@@ -23,5 +23,5 @@ WKHTMLTOPDF_PATH = '/usr/local/bin/wkhtmltopdf'
 #     'no-outline': None
 # }
 # pdfkit.from_file('file.html', 'file.pdf', options=options)
-pdfkit.from_file('plantilla.html', 'file.pdf')
+pdfkit.from_file('plantilla.html', 'Example-pdf.pdf')
 
